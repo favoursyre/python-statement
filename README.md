@@ -18,5 +18,5 @@ python main.py
 ```
 
 ## FAQS
-1. **How does it feel to print your first code?**
+1. **How does it feel to print your first code?**\
 It feels awesome
