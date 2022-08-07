@@ -10,7 +10,7 @@
 Printing Hello World in python, lol
 
 ## Languages
-* Python
+- Python
 
 ## Run
 ```bash
